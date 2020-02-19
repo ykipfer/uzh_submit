@@ -1,0 +1,132 @@
+---
+title: "Collecting and Analyzing Web Data - First Project"
+author: "Fill in your name"
+output: html_document
+date: "last updated: `r Sys.Date()`"
+---
+
+
+*In groups of around 3-5 people, fill out this sheet on current debates about scraping, its scientific use and doing research in R. When you are finished, upload your solutions on GitHub.*
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+## Introduction
+
+### GitHub
+
+Your GitHub account:
+
+
+### Previous experience
+
+Fill in this [short survey on your previous experience](https://forms.gle/BJtFLNVWirnDWzSZ8)
+
+
+\pagebreak
+
+
+## Legal regulations and hacktivism
+
+### Legality of scraping
+
+
+Describe what the following terms / laws / cases refer to in one sentence each:
+
+terms of service: 
+
+GDPR: 
+
+Computer Fraud and Abuse Act: 
+
+Sandvig v. Barr: 
+
+
+
+### Terms of service
+
+Something that is not allowed:
+
+Something that is confusing:
+
+Something related to scraping: 
+
+
+### robots.txt
+
+
+webpage you checked:
+
+
+### Hacktivism
+
+Find information about the following people.
+
+- Aaron Swartz
+- Alexandra Elbakyan
+- Karrie Karahalios
+- Murray Cox
+- Paolo Cirio
+- another data activist of your choosing
+
+
+### Scientific debate
+
+article:
+
+author's position:
+
+\pagebreak
+
+
+## Scientific use of scraping
+
+### Use of scraping
+
+Number of results:
+
+Search terms:
+
+### An article that uses webscraped data
+
+
+article:
+
+How is web data relevant:
+
+### Your ideas for scraping
+
+page:
+
+idea:
+
+
+\pagebreak
+
+
+## Course practicalities
+
+### Coding Style
+
+
+Which tutorial / style guide did you look at?
+
+One thing you want to improve about your R code:
+
+One thing you disagree with:
+
+### Coding for others
+
+
+
+Which coding / style decisions were the most contested within your group?
+
+
+
+### Work environment
+
+How did you structure your folder?
+
+
+
+### Submit!
