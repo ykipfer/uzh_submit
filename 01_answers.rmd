@@ -1,6 +1,6 @@
 ---
 title: "Collecting and Analyzing Web Data - First Project"
-author: "Fill in your name"
+author: "Yanik Kipfer"
 output: html_document
 date: "last updated: `r Sys.Date()`"
 ---
@@ -15,7 +15,7 @@ date: "last updated: `r Sys.Date()`"
 
 ### GitHub
 
-Your GitHub account:
+Your GitHub account: ykipfer
 
 
 ### Previous experience
@@ -29,45 +29,54 @@ Fill in this [short survey on your previous experience](https://forms.gle/BJtFLN
 ## Legal regulations and hacktivism
 
 ### Legality of scraping
+Web scraping and crawling aren't illegal by themselves. After all, you could scrape or crawl your own website, without a hitch. The problem arises when you scrape or crawl the website of somebody else, without obtaining their prior written permission, or in disregard of their Terms of Service (ToS)
 
 
 Describe what the following terms / laws / cases refer to in one sentence each:
 
-terms of service: 
+terms of service: legal agreements between a service provider and a person who wants to use that service.
 
-GDPR: 
+GDPR: The General Data Protection Regulation is a regulatory framework put out EU, which regulates data privacy
 
-Computer Fraud and Abuse Act: 
+Computer Fraud and Abuse Act: The Computer Fraud and Abuse Act (CFAA) was enacted in 1986, as an amendment to the first federal computer fraud law, to address hacking.
 
-Sandvig v. Barr: 
+Sandvig v. Barr: A lawsuit filed by the ACLU challenging the constitutionality of the Computer Fraud and Abuse Act, which makes it a federal crime to access a computer in a manner that “exceeds authorized access.
 
 
 
 ### Terms of service
 
 Something that is not allowed:
+(ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures;
 
-Something that is confusing:
+Something that is confusing: 
+We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public.
 
-Something related to scraping: 
+Something related to scraping:
+(iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited)
 
 
 ### robots.txt
+Robots.txt is a text file with instructions for search engine crawlers. It defines which areas of a website crawlers are allowed to search.
 
-
-webpage you checked:
+webpage you checked: Twitter
 
 
 ### Hacktivism
 
 Find information about the following people.
 
-- Aaron Swartz
-- Alexandra Elbakyan
-- Karrie Karahalios
-- Murray Cox
-- Paolo Cirio
-- another data activist of your choosing
+- Aaron Swartz was an American computer programmer, entrepreneur, writer, political organizer, and Internet hacktivist. He was involved in the development of the web feed format RSS, the Markdown publishing format, the organization Creative Commons, and the website framework web.py, and was a co-founder of the social news site Reddit.
+
+- Alexandra Elbakyans a Kazakhstani computer programmer, the creator of the site Sci-Hub, described as an Internet "pirate in hiding" & "Science's Pirate Queen"
+
+- Karrie Karahalios is an American computer scientist and professor in the Department of Computer Science, University of Illinois at Urbana-Champaign. She is noted for her work on the impact of computer science on people and society, analyses of social media, and algorithm auditing. She is co-founder of the Center for People and Infrastructures at the University of Illinois at Urbana-Champaign.
+
+- Murray Cox used the Airbnb’s own data to highlight illegal listings in big cities.
+
+- Paolo Cirio is a conceptual artist, hacktivist and cultural critic. Paolo Cirio is known for having exposed over 200,000 Cayman Islands offshore firms with the work Loophole for All in 2013; the hacking of Facebook through publishing 1 million users on a dating website with Face to Facebook in 2011; the theft of 60,000 financial news articles with Daily Paywall[2] in 2014 and of e-books from Amazon.com with Amazon Noir in 2006; defrauding Google with GWEI in 2005; and the obfuscation of 15 million U.S. criminal records with Obscurity in 2016
+
+- Julian Paul Assange is an Australian editor, publisher, and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
 
 
 ### Scientific debate
