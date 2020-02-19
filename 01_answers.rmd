@@ -1,6 +1,6 @@
 ---
 title: "Collecting and Analyzing Web Data - First Project"
-author: "Yanik Kipfer"
+authors: "Yanik Kipfer, Massimo Troncone, Raffaele Bellini "
 output: html_document
 date: "last updated: `r Sys.Date()`"
 ---
@@ -15,7 +15,7 @@ date: "last updated: `r Sys.Date()`"
 
 ### GitHub
 
-Your GitHub account: ykipfer
+Your GitHub account: ykipfer, mtroncone, Raffa23
 
 
 ### Previous experience
